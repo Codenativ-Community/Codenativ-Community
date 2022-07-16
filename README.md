@@ -1,4 +1,4 @@
-- 👋 Hi, WELCOME TO CODENATIVE 
+- 👋 Hi, WELCOME TO CODENATIV
 - 👀 I’f you are interested in *Coding* do follow 
 - 👾 We will organize *Events* on weekend basis 
 
