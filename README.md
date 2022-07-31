@@ -14,6 +14,6 @@
     <p>&nbsp;</p>
 
 <p align="center">
-    <img src="lgo.jpg" height="400" width ="430"/>
+    <img src="lgo.jpg" height="200" width ="230"/>
 </p>
       
