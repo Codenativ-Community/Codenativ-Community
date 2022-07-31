@@ -13,4 +13,7 @@
     - **Email_**<img src="email.png" height="20" width ="32"/>: codenativcommunity@gmail.com
     <p>&nbsp;</p>
 
-<img src="email.png" height="20" width ="32"/>
+<p align="center">
+    <img src="lgo.jpg" height="400" width ="430"/>
+</p>
+      
