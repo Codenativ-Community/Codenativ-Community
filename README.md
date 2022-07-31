@@ -1,3 +1,4 @@
+                                                 NO CODE NO LIFE
 - 👋 Hi, WELCOME TO CODENATIV
 - 👀 I’f you are interested in *Coding* do follow 
 - 👾 We will organize *Events* on weekend basis 
@@ -11,3 +12,5 @@
     
     - **Email_**<img src="email.png" height="20" width ="32"/>: codenativcommunity@gmail.com
     <p>&nbsp;</p>
+
+<img src="email.png" height="20" width ="32"/>
